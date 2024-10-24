@@ -1,0 +1,14 @@
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.AssemblyInfoInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.AssemblyInfo.cs
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\bin\Debug\net8.0\C# To-Do List.exe
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\bin\Debug\net8.0\C# To-Do List.deps.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\bin\Debug\net8.0\C# To-Do List.runtimeconfig.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\bin\Debug\net8.0\C# To-Do List.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\bin\Debug\net8.0\C# To-Do List.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\refint\C# To-Do List.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\C# To-Do List.genruntimeconfig.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\C# To-Do List\C# To-Do List\obj\Debug\net8.0\ref\C# To-Do List.dll
